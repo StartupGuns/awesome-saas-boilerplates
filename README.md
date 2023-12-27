@@ -28,6 +28,7 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 # Python
 ### Django
 - SaaS Pegasus - [https://www.saaspegasus.com](https://app.startupguns.com/api/link/saaspegasus/github) 💰
+- SaaS Boilerplate - [https://www.apptension.com/saas-boilerplate](https://www.apptension.com/saas-boilerplate)
 
 
 # PHP
