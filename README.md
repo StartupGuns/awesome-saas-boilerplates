@@ -13,7 +13,7 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 
 - ⚡ShipFast - [https://shipfa.st](https://app.startupguns.com/api/link/shipfast/web) 💰
 - Nextbase - [https://usenextbase.com](https://app.startupguns.com/api/link/nextbase/github) 💰
-- LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
+- LaunchFast - [https://www.launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
 - Divjoy - [https://divjoy.com](https://app.startupguns.com/api/link/divjoy/github) 💰
 - Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰
 
@@ -22,8 +22,10 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 - Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰
 
 ### Astro
-- LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
+- LaunchFast - [https://www.launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
 
+### SvelteKit
+- LaunchFast - [https://www.launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
 
 # Python
 ### Django
