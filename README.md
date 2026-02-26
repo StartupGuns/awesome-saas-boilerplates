@@ -36,7 +36,6 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 ### Laravel
 
 
+# Go
 
-
-
-
+- LastSaaS - [https://github.com/jonradoff/lastsaas](https://github.com/jonradoff/lastsaas) - Open-source, AI-native SaaS platform. Go + React + TypeScript + MongoDB. Free/MIT. Multi-tenant auth, Stripe billing, white-label, MCP server, webhooks, admin dashboard.
