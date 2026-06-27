@@ -25,6 +25,9 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 - LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
 
 
+### NestJS + Angular
+- SaaS Starter by Cloudrix - [https://github.com/sayahweb2-png/saas-starter-lite](https://github.com/sayahweb2-png/saas-starter-lite) - NestJS + Angular, Stripe, multi-tenancy, auth. MIT open-source.
+
 # Python
 ### Django
 - SaaS Pegasus - [https://www.saaspegasus.com](https://app.startupguns.com/api/link/saaspegasus/github) 💰
