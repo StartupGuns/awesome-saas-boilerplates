@@ -20,6 +20,7 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 ### React  
 - Divjoy - [https://divjoy.com](https://app.startupguns.com/api/link/divjoy/github) 💰
 - Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰
+- Hype Stack - [https://www.hype-stack.dev](https://www.hype-stack.dev)
 
 ### Astro
 - LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
