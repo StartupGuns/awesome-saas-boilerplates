@@ -21,6 +21,9 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 - Divjoy - [https://divjoy.com](https://app.startupguns.com/api/link/divjoy/github) 💰
 - Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰
 
+### SvelteKit
+- AgenticSaaS - [https://agenticsaas.flawlesslyhuman.com/](https://agenticsaas.flawlesslyhuman.com/) 💰 - Agent-ready starter with accounts, billing, credits and private files. Save $100 with LAUNCH100, for the first 100 paid launch licenses.
+
 ### Astro
 - LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
 
