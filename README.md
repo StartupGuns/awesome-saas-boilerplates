@@ -30,6 +30,9 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 - SaaS Pegasus - [https://www.saaspegasus.com](https://app.startupguns.com/api/link/saaspegasus/github) 💰
 - SaaS Boilerplate - [https://www.apptension.com/saas-boilerplate](https://www.apptension.com/saas-boilerplate)
 
+### FastAPI
+- FastAPI Supabase Starter - [https://starter.budeglobal.in](https://starter.budeglobal.in) 💰
+
 
 # PHP
 
