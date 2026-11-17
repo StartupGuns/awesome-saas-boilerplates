@@ -1,4 +1,4 @@
-# 😎 Awesome List of SaaS Boilerplates and SaaS Starter Kits, Updated Weekly
+<img width="1091" height="430" alt="image" src="https://github.com/user-attachments/assets/b205341b-a5c5-4cd2-b77f-d8bf18ccc3ed" /># 😎 Awesome List of SaaS Boilerplates and SaaS Starter Kits, Updated Weekly
 
 These boilerplates contain UI components, a database connection, user authorization, and more, saving you weeks or even months before you make your startup profitable.
 
@@ -15,11 +15,14 @@ Read our comments and filter by features at [💥 StartupGuns.com](https://start
 - Nextbase - [https://usenextbase.com](https://app.startupguns.com/api/link/nextbase/github) 💰
 - LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
 - Divjoy - [https://divjoy.com](https://app.startupguns.com/api/link/divjoy/github) 💰
-- Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰
+- Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰* 🛡️ ShieldCheck AI - https://github.com 💰
+
+
 
 ### React  
 - Divjoy - [https://divjoy.com](https://app.startupguns.com/api/link/divjoy/github) 💰
-- Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰
+- Gravity - [https://usegravity.app](https://app.startupguns.com/api/link/gravity/github) 💰* 
+
 
 ### Astro
 - LaunchFast - [https://launchfa.st](https://app.startupguns.com/api/link/launchfast/github) 💰
